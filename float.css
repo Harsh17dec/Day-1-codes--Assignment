@@ -1,0 +1,23 @@
+.box
+{
+box-sizing:borderbox
+float:left;
+width:45%;
+/* border:1px.solid  gray;*/
+padding :5px;
+margin:1px;
+}
+.image
+{
+width:100%
+}
+.container
+{
+border:5px solid  gray;
+}
+.clearifix
+{
+content:"";
+clear:both;
+display:table;
+}
